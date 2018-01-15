@@ -1,5 +1,6 @@
  v0.6 (not released yet)
  - build against Android SDK 8.0 (API 26)
+ - build with Gradle 3.0.1
 
  v0.5 (released on 14Jan2018)
  - translated to Croatian, thanks to Dag Velovic
